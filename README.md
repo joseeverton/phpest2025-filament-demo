@@ -19,7 +19,7 @@ Este repositório foi criado para a palestra **"Filament: o atalho para CRUDs po
 
 ### 1. Clonar repositório
 ```bash
-git clone https://github.com/seu-usuario/filament-demo.git
+git clone https://github.com/joseeverton/phpest2025-filament-demo.git
 cd filament-demo
 ```
 ### 2. Instalar dependências

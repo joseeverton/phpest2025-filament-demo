@@ -35,8 +35,8 @@ php artisan migrate
 ```
 ### 4. Instalar Filament
 ```bash
-composer require filament/filament:"^3.0"
-php artisan filament:install
+composer require filament/filament
+php artisan filament:install --panels
 ```
 ### 4.1 Criar usuário admin:
 ```bash
